@@ -1,0 +1,14 @@
+{{- with .Params.references -}}
+<section class="post-references" aria-label="References">
+  <h3>References</h3>
+  <ul>
+    {{- range . }}
+    <li>
+      {{- /* Hugo auto-escapes template output; .url and .title come from front matter, not user input */ -}}
+      <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+      {{- with .source }} <span class="ref-source">&mdash; {{ . }}</span>{{ end }}
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end -}}

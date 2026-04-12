@@ -1,0 +1,38 @@
+baseURL = "https://blogcompany0.github.io/personal-finance-blog/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+title = "WealthWise Journal"
+theme = "vault"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 9
+
+[params]
+  description = "Smart strategies for personal finance, investing, and building lasting wealth"
+  author = "WealthWise Journal"
+  googleAnalytics = ""
+  googleAdsenseId = ""
+  locale = "en_US"
+  targetCountries = ["US", "AU", "GB", "CA"]
+
+[markup]
+  [markup.highlight]
+    style = "dracula"
+    lineNos = false
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "Sitemap"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
