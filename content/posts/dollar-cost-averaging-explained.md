@@ -34,7 +34,9 @@ I didn't sell. But I also didn't buy. I was too scared. I sat on the sidelines w
 
 By the time it felt safe — roughly six months later — the market had already recovered almost everything it lost. My $500 would have been worth $750 if I'd just invested it on schedule instead of trying to be clever about timing.
 
-That experience taught me a lesson I'll never forget: I am terrible at timing the market. And statistically speaking, so are you. So is almost everyone. Which is exactly why dollar-cost averaging exists.
+That experience taught me a lesson I'll never forget: I am terrible at timing the market. And statistically speaking, so are you. So is almost everyone. A Dalbar study tracking investor behavior over 30 years found that the average equity fund investor earned just 3.6% annually, compared to 7.5% for the S&P 500 — largely because people buy when they feel confident (prices are high) and sell when they feel scared (prices are low). We are hardwired to do the exact opposite of what makes money.
+
+Which is exactly why dollar-cost averaging exists.
 
 ## What Dollar-Cost Averaging Actually Is
 
@@ -88,6 +90,16 @@ DCA removes the emotional weight of any single investment decision. No single pu
 
 I can't overstate how much this matters. The biggest threat to your investment returns isn't picking the wrong fund or investing at the wrong time. It's your own behavior. Selling during a panic, chasing hot stocks, sitting in cash because you're "waiting for a dip." DCA is a behavioral guardrail that keeps you investing consistently through every market condition. And consistency, over decades, is what builds wealth.
 
+## DCA in Action: Real Historical Examples
+
+Let me walk through two real-world scenarios using actual S&P 500 data to show how DCA performs in different market environments.
+
+**Scenario 1: Starting before the 2008 crash.** Imagine you began investing $300/month in an S&P 500 index fund in January 2007. By March 2009, the market had fallen roughly 57% from its peak. Your early investments were underwater — badly. But your $300 monthly contributions during the crash were buying shares at fire-sale prices. The S&P 500 bottomed around 676 in March 2009. Those shares you bought at the bottom? By 2026, they've grown roughly 800%. Your total investment of about $69,000 over 19 years would be worth approximately $230,000. The crash that felt catastrophic in the moment turned out to be the best buying opportunity of a generation — but only for investors who kept contributing through it.
+
+**Scenario 2: Starting at the COVID crash.** If you started investing $300/month in March 2020, right at the bottom of the COVID crash, you caught one of the fastest recoveries in market history. But here's the thing — you didn't need to time the bottom. Someone who started in January 2020 (before the crash), March 2020 (at the bottom), or June 2020 (during the recovery) all ended up in roughly similar positions by 2026, because DCA smoothed out the entry point differences. The person who started in January bought some shares at pre-crash prices, got great deals during the crash, and continued buying through the recovery. The total difference between "perfect" and "terrible" timing was less than 10% over six years — a gap that shrinks further with every passing year.
+
+These examples illustrate the core truth about DCA: your entry point matters far less than your consistency. The investor who starts at the "wrong" time but keeps investing will almost always outperform the investor who waits for the "right" time and misses months or years of contributions.
+
 ## How to Set Up Dollar-Cost Averaging (10 Minutes)
 
 The beauty of DCA is that once you set it up, it runs on autopilot. Here's the practical setup:
@@ -136,11 +148,37 @@ DCA turns crashes from disasters into opportunities. When prices drop, your fixe
 
 I want to be fair about the limitations. DCA isn't always the mathematically optimal strategy:
 
-**If you have a large lump sum to invest** — an inheritance, a bonus, proceeds from selling a house — the data suggests investing it all at once typically produces better returns than spreading it out over months. Markets go up more often than they go down, so having your money invested sooner means more time for growth. Vanguard's research shows lump-sum investing beats DCA about two-thirds of the time.
+**If you have a large lump sum to invest** — an inheritance, a bonus, proceeds from selling a house — the data suggests investing it all at once typically produces better returns than spreading it out over months. Markets go up more often than they go down (roughly 73% of calendar years are positive), so having your money invested sooner means more time for growth. Vanguard's research shows lump-sum investing beats DCA about two-thirds of the time.
 
 But "typically better returns" and "better for you" aren't always the same thing. If investing $50,000 all at once would keep you up at night, splitting it into $10,000 monthly investments over five months is a perfectly reasonable compromise. You'll likely give up a small amount of expected return in exchange for a lot of peace of mind. That's a trade worth making if it keeps you invested instead of paralyzed.
 
-**If you're investing in individual stocks** rather than diversified funds, DCA doesn't provide the same protection. Averaging into a single company that's declining isn't "buying the dip" — it might be throwing good money after bad. DCA works best with broad market funds where the long-term trajectory is reliably upward.
+Here's a useful framework for lump sums: if the amount is less than three months of your regular investment contributions, just invest it all at once — the timing risk is minimal. If it's a truly life-changing amount (an inheritance, a home sale), consider splitting it into three to six monthly chunks. The mathematical cost of this caution is small, and the behavioral benefit — actually following through instead of freezing — is enormous.
+
+**If you're investing in individual stocks** rather than diversified funds, DCA doesn't provide the same protection. Averaging into a single company that's declining isn't "buying the dip" — it might be throwing good money after bad. A company can go to zero; a broad market index fund effectively can't. DCA works best with broad market funds where the long-term trajectory is reliably upward.
+
+**If you're nearing retirement,** your DCA strategy should evolve. As you get closer to needing the money, gradually shift your automatic investments from stocks to bonds or stable value funds. This is called a "glide path," and it's what target-date retirement funds do automatically. You're still using DCA — same amount, same schedule — but the destination changes to reflect your shorter time horizon and lower risk tolerance.
+
+## DCA and Tax-Advantaged Accounts
+
+One aspect of DCA that doesn't get enough attention is how it interacts with different account types.
+
+In a **401(k)**, you're already doing DCA by default. Every paycheck, a fixed percentage goes into your retirement account and gets invested automatically. The only decision you need to make is which funds to invest in and what percentage of your salary to contribute. If your employer offers a match, contribute at least enough to get the full match — that's an instant 50-100% return before any market growth.
+
+In a **Roth IRA**, you can set up automatic monthly contributions from your bank account. The 2026 contribution limit is $7,500, which works out to $625/month. If you can't afford $625, contribute whatever you can — $100, $200, $300. The automation is what matters, not the amount. One thing to be aware of: if your income might exceed the Roth IRA limits ($153,000 single, $242,000 married filing jointly), you may want to front-load your contributions early in the year to ensure you get the full amount in before any income surprises.
+
+In a **taxable brokerage account**, DCA has an additional benefit: tax-lot management. When you buy shares at different prices over time, each purchase creates a separate "tax lot." When you eventually sell, you can choose which lots to sell first. By selling your highest-cost lots first (called "specific identification" or "SpecID"), you minimize your capital gains tax. This is a meaningful advantage that lump-sum investors don't get — all their shares have the same cost basis.
+
+## Common DCA Mistakes to Avoid
+
+Even though DCA is one of the simplest investment strategies, people still find ways to undermine it. Here are the mistakes I see most often.
+
+**Pausing during downturns.** This is the cardinal sin of DCA. When the market drops 20%, every instinct screams "stop putting money in!" But those are exactly the months when your fixed investment buys the most shares at the lowest prices. Pausing during a downturn is like stopping your grocery shopping during a sale. The whole point of DCA is that you keep buying regardless of price — the discipline during bad times is what generates the outsized returns during good times.
+
+**Changing the amount based on market conditions.** Some people try to "enhance" DCA by investing more when the market is down and less when it's up. This sounds smart in theory, but it reintroduces the timing problem that DCA is designed to eliminate. How do you know the market is "down enough" to invest more? You don't. Stick with a fixed amount and let the math work.
+
+**Investing too infrequently.** Monthly is the standard DCA interval, but some people invest quarterly or even annually. The less frequently you invest, the less smoothing effect you get. Monthly contributions give you 12 purchase points per year; annual contributions give you just one — which means your results are more dependent on the specific day you happen to invest. Monthly or biweekly is the sweet spot for most people.
+
+**Forgetting to increase contributions over time.** Your DCA amount shouldn't stay the same forever. As your income grows, your investment contributions should grow with it. A good rule of thumb: every time you get a raise, increase your automatic investment by at least half the raise amount. If you get a $200/month raise, bump your investment by $100. You still enjoy a lifestyle improvement, but your wealth-building accelerates too. Over a career, these incremental increases can double or triple your ending portfolio value compared to keeping contributions flat.
 
 ## The One Rule That Makes DCA Work
 
@@ -151,3 +189,7 @@ The moment you stop — the moment you say "I'll pause my investments until thin
 So set it up, automate it, and then do the hardest thing in investing: nothing. Don't check your balance daily. Don't watch financial news. Don't listen to your uncle who's convinced the market is about to crash. Just let the automation do its job, month after month, year after year.
 
 It's boring. It's unsexy. It'll never make for an exciting story at a dinner party. But twenty years from now, when you're sitting on a portfolio that's worth multiples of what you put in, you'll understand why the most successful investors in history all say the same thing: the best strategy is the one you can stick with. And nothing is easier to stick with than a strategy that runs itself.
+
+Warren Buffett, arguably the greatest investor of all time, has said that his favorite holding period is "forever." Charlie Munger, his longtime partner, put it even more bluntly: "The big money is not in the buying and the selling, but in the waiting." DCA is the mechanical expression of that philosophy — it forces you to keep buying and keep waiting, which is exactly what builds wealth over time.
+
+So open your brokerage account, set up your automatic investment, and then go live your life. Check your portfolio once a quarter, increase your contributions when you can, and ignore everything else. The market will crash. It will recover. It will crash again. Through all of it, your automatic investments will keep buying shares, building your wealth one purchase at a time. That's not just a strategy — it's freedom from the anxiety of trying to outsmart a market that has humbled far smarter people than either of us.
