@@ -116,6 +116,8 @@ Let me be real: this rule isn't for everyone, and it doesn't work in every situa
 
 The rule is a starting point, not a straitjacket. Bend it to fit your life.
 
+![Financial goals tracking chart showing savings progress over time](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=900&auto=format&fit=crop&q=80)
+
 ## The Real Power of Three Numbers
 
 Here's what I've come to appreciate about the 50/30/20 rule after using it for years: its greatest strength isn't precision. It's clarity.

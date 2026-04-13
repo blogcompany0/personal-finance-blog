@@ -100,6 +100,8 @@ My Roth IRA? Also ETFs, though it honestly wouldn't matter since it's a tax-adva
 
 The total cost difference between my index fund and ETF holdings? Maybe $10-15 per year across my entire portfolio. I spend more than that on coffee in a week.
 
+![Stock market chart showing long-term growth trend of index investments](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=900&auto=format&fit=crop&q=80)
+
 ## The One Thing That Actually Matters
 
 Here's what I wish someone had told me when I was going back and forth between index funds and ETFs: the vehicle matters way less than the habit.
