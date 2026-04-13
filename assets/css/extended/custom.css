@@ -23,8 +23,8 @@
   --radius: 12px;
 }
 
-.dark {
-  --theme: var(--bg-dark);
+[data-theme=dark] {
+  --theme: #0F1B2D;
   --entry: #1A2744;
   --primary: #D4A843;
   --secondary: #A0AEC0;
@@ -44,7 +44,7 @@ header.header {
   background: #1B365D;
 }
 
-.dark header.header {
+[data-theme=dark] header.header {
   background: #0A1628;
 }
 
@@ -116,7 +116,7 @@ body {
   font-size: 0.85em;
 }
 
-.dark .post-tags a {
+[data-theme=dark] .post-tags a {
   background: #1A2744;
   color: #D4A843;
   border-color: #2D3748;

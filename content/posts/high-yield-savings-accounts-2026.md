@@ -23,6 +23,9 @@ references:
   - title: "FDIC: Are My Deposits Insured?"
     url: "https://www.fdic.gov/resources/deposit-insurance/"
     source: "Federal Deposit Insurance Corporation"
+cover:
+  image: "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 Last year, I checked the interest rate on my old savings account at a big-name bank — the one I'd had since college. It was earning 0.01% APY. Zero point zero one. On my $8,000 balance, that worked out to about 80 cents a year. Not 80 dollars. Eighty cents. I could literally find more money in my couch cushions.

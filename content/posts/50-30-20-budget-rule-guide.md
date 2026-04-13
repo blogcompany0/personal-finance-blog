@@ -26,6 +26,9 @@ references:
   - title: "All Your Worth: The Ultimate Lifetime Money Plan"
     url: "https://www.amazon.com/All-Your-Worth-Ultimate-Lifetime/dp/0743269888"
     source: "Elizabeth Warren & Amelia Warren Tyagi"
+cover:
+  image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 I used to think budgeting meant tracking every single purchase in a spreadsheet — every coffee, every grocery run, every random Amazon order at 2 AM. I tried it for about three weeks before I wanted to throw my laptop out the window. The spreadsheet had 47 categories. Forty-seven. I was spending more time categorizing my spending than actually managing it.

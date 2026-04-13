@@ -23,6 +23,9 @@ references:
   - title: "Investor.gov: Introduction to Investing"
     url: "https://www.investor.gov/introduction-investing"
     source: "U.S. Securities and Exchange Commission"
+cover:
+  image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 I put off investing for years because I thought I needed real money to get started. Not $100 — I mean real money. Thousands. Tens of thousands. The kind of money that people in suits talk about on CNBC while charts flash behind them.

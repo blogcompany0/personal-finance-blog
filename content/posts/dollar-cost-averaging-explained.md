@@ -23,6 +23,9 @@ references:
   - title: "Investor.gov: Introduction to Investing"
     url: "https://www.investor.gov/introduction-investing"
     source: "U.S. Securities and Exchange Commission"
+cover:
+  image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 In March 2020, the stock market dropped 34% in about three weeks. I watched my portfolio shrink by thousands of dollars while the news screamed about economic collapse. Every instinct told me to sell everything and hide the cash under my mattress.

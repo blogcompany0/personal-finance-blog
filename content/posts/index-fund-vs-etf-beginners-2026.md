@@ -23,6 +23,9 @@ references:
   - title: "Index Funds vs. ETFs vs. Mutual Funds: What's the Difference?"
     url: "https://wealthvieu.com/index-funds-vs-etfs/"
     source: "WealthVieu"
+cover:
+  image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 A friend texted me last month with a question I've heard a dozen times: "I want to start investing, but should I buy an index fund or an ETF? What's the difference? Are they the same thing?"

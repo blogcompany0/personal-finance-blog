@@ -23,6 +23,9 @@ references:
   - title: "Roth IRA vs Traditional IRA — Which is Better in 2026?"
     url: "https://glenbradford.com/roth-ira-vs-traditional-ira"
     source: "Glen Bradford"
+cover:
+  image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 I spent three years contributing to the wrong retirement account. Not "wrong" in the sense that saving for retirement is ever a bad idea — but wrong in the sense that I was leaving thousands of dollars in tax savings on the table because I didn't understand the difference between a Roth IRA and a Traditional IRA.

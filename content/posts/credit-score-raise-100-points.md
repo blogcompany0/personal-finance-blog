@@ -23,6 +23,9 @@ references:
   - title: "Free Credit Reports"
     url: "https://www.annualcreditreport.com/"
     source: "AnnualCreditReport.com (FTC authorized)"
+cover:
+  image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 My credit score was 580 when I graduated college. I didn't even know that was bad until I tried to rent my first apartment and the landlord looked at me like I'd just handed him a parking ticket instead of a rental application. He approved me anyway — with an extra month's deposit as collateral — but that moment stuck with me. I was 22 years old and already starting adult life with a financial handicap I barely understood.

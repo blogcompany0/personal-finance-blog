@@ -23,6 +23,9 @@ references:
   - title: "An Essential Guide to Building an Emergency Fund"
     url: "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/"
     source: "Consumer Financial Protection Bureau"
+cover:
+  image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 I still remember the night my car broke down on the highway — 11 PM, middle of nowhere, tow truck on the way, and exactly $212 in my checking account. The repair bill? $1,400. That was the moment I realized I'd been living one bad day away from financial disaster.

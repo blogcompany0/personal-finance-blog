@@ -23,6 +23,9 @@ references:
   - title: "Bureau of Labor Statistics: Earnings Data"
     url: "https://www.bls.gov/oes/"
     source: "U.S. Bureau of Labor Statistics"
+cover:
+  image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 Two years ago, I was staring at a $400 gap between my paycheck and my bills. Not a crisis — I could cover everything — but there was nothing left over. No savings growing, no investments compounding, no breathing room. Just a paycheck-to-paycheck loop that felt like running on a treadmill set to exactly my speed.

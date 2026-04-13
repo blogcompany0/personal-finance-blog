@@ -23,6 +23,9 @@ references:
   - title: "Student Loan Repayment Strategies: Pay Off Debt Faster in 2026"
     url: "https://smartfinancialtools.com/articles/student-loan-repayment-strategies-2026"
     source: "Smart Financial Tools"
+cover:
+  image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=900&auto=format&fit=crop&q=80"
+  hidden: false
 ---
 
 The day I logged into my student loan servicer's website after graduation and saw the number — $31,400 — I felt something between nausea and disbelief. I knew I'd borrowed money for college. I'd signed the promissory notes. But somehow, seeing the actual balance with interest already accruing felt like opening a credit card bill after a vacation you don't fully remember.
