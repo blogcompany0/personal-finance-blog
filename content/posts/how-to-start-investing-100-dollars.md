@@ -61,7 +61,7 @@ Here are the brokerages I'd recommend for beginners, all with $0 commissions and
 
 One important decision: should you open a regular brokerage account or a Roth IRA? If this is money you won't need until retirement, a Roth IRA is almost always the better choice. You invest after-tax dollars, and all the growth is tax-free when you withdraw it in retirement. For a 25-year-old investing $100/month, the tax savings over a lifetime could be worth tens of thousands of dollars.
 
-The contribution limit for a Roth IRA in 2026 is $7,000 per year ($8,000 if you're 50 or older). Since you're starting with $100, you're well within the limit.
+The contribution limit for a Roth IRA in 2026 is $7,500 per year ($8,600 if you're 50 or older). Since you're starting with $100, you're well within the limit.
 
 ## Step 2: Decide What to Buy (The Simple Version)
 
