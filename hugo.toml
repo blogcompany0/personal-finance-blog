@@ -3,6 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 title = "WealthWise Journal"
 theme = "PaperMod"
+googleAnalytics = "G-63H6GS0341"
 enableRobotsTXT = true
 
 [pagination]
