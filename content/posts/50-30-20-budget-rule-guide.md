@@ -176,6 +176,8 @@ After helping several friends set up their own 50/30/20 budgets, I've noticed th
 **Mistake 3: Treating the wants bucket as a spending target.** The 30% is a ceiling, not a floor. If you only spend 22% on wants in a given month, that's not a failure — it's an opportunity to boost your savings. Some months I spend well under 30% on wants, and I sweep the excess into my investment account. Over a year, those small surpluses add up to an extra $1,000-2,000 in investments.
 
 **Mistake 4: Giving up after one bad month.** You will have months where the percentages are way off. A medical bill, a car repair, a wedding you forgot about — life happens. One bad month doesn't mean the system failed. It means you're human. Reset the next month and keep going. The 50/30/20 rule is a long-term framework, not a monthly pass/fail test.
+![Financial goals tracking chart showing savings progress over time](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=900&auto=format&fit=crop&q=80)
+
 ## The Real Power of Three Numbers
 
 Here's what I've come to appreciate about the 50/30/20 rule after using it for years: its greatest strength isn't precision. It's clarity.
