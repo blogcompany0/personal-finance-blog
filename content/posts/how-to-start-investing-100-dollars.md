@@ -47,7 +47,7 @@ A brokerage account is just a place where you buy and sell investments. Think of
 
 In 2026, opening one is about as complicated as signing up for a streaming service. You'll need your name, address, Social Security number, and a linked bank account. That's it.
 
-![Person opening a brokerage account on smartphone to start investing](https://images.unsplash.com/photo-1563986768609-322da13575f2?w=900&auto=format&fit=crop&q=80)
+![Person opening a brokerage account on smartphone to start investing](https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=900&auto=format&fit=crop&q=80)
 
 *Image credit: [Tech Daily](https://unsplash.com/@techdailyca) via Unsplash*
 

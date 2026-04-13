@@ -42,7 +42,7 @@ The 50/30/20 rule was popularized by Senator Elizabeth Warren and her daughter A
 
 **20% goes to savings and debt repayment.** Emergency fund contributions. Retirement account deposits. Extra payments on student loans or credit cards beyond the minimums. Investments. This is the bucket that builds your future.
 
-![Person organizing monthly budget into needs wants and savings categories](https://images.unsplash.com/photo-1553729459-uj8bt8f8ce8s?w=900&auto=format&fit=crop&q=80)
+![Person organizing monthly budget into needs wants and savings categories](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=900&auto=format&fit=crop&q=80)
 
 *Image credit: [Karolina Grabowska](https://unsplash.com/@kaboompics) via Unsplash*
 
