@@ -2,24 +2,61 @@ baseURL = "https://blogcompany0.github.io/personal-finance-blog/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 title = "WealthWise Journal"
-theme = "vault"
+theme = "PaperMod"
 enableRobotsTXT = true
 
 [pagination]
-  pagerSize = 9
+  pagerSize = 10
 
 [params]
+  env = "production"
   description = "Smart strategies for personal finance, investing, and building lasting wealth"
   author = "WealthWise Journal"
   googleAnalytics = ""
-  googleAdsenseId = ""
   locale = "en_US"
-  targetCountries = ["US", "AU", "GB", "CA"]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+
+  [params.homeInfoParams]
+    Title = "WealthWise Journal"
+    Content = "Smart strategies for personal finance, investing, and building lasting wealth."
+
+  [params.profileMode]
+    enabled = false
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "index.xml"
 
 [markup]
   [markup.highlight]
     style = "dracula"
-    lineNos = false
     noClasses = false
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -30,9 +67,33 @@ enableRobotsTXT = true
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS", "Sitemap"]
+  home = ["HTML", "RSS", "JSON"]
 
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 40
